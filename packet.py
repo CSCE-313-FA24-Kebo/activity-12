@@ -1,4 +1,4 @@
-from scapy.all import Ether, IP, TCP, sendp
+from scapy.all import *
 
 # Define the Ethernet frame
 
